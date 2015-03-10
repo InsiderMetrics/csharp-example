@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsiderMetrics.Docs.CodeExa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsiderMetrics.Docs.CodeExample.CSharp.Test", "..\InsiderMetrics.Docs.CodeExample.CSharp.Test\InsiderMetrics.Docs.CodeExample.CSharp.Test.csproj", "{BC77CBA7-88C2-4B92-AED6-7E0BD4DC47F7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General Info", "General Info", "{10C328B5-CF8A-4DC9-B3ED-F763A09189C7}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
